@@ -1,0 +1,15 @@
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/bin/Debug/net6.0/gamedev1
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/bin/Debug/net6.0/gamedev1.deps.json
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/bin/Debug/net6.0/gamedev1.runtimeconfig.json
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/bin/Debug/net6.0/gamedev1.dll
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/bin/Debug/net6.0/gamedev1.pdb
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/obj/Debug/net6.0/gamedev1.csproj.AssemblyReference.cache
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/obj/Debug/net6.0/gamedev1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/obj/Debug/net6.0/gamedev1.AssemblyInfoInputs.cache
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/obj/Debug/net6.0/gamedev1.AssemblyInfo.cs
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/obj/Debug/net6.0/gamedev1.csproj.CoreCompileInputs.cache
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/obj/Debug/net6.0/gamedev1.dll
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/obj/Debug/net6.0/refint/gamedev1.dll
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/obj/Debug/net6.0/gamedev1.pdb
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/obj/Debug/net6.0/gamedev1.genruntimeconfig.cache
+/Users/kyeclevenger/Desktop/CodingDojo_Assingments/C#/Game_Developer1/gamedev1/obj/Debug/net6.0/ref/gamedev1.dll
